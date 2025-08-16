@@ -21,6 +21,8 @@ In C++, functions can accept inputs through parameters and may return results. F
 
 Functions can operate on simple variables, complex data structures, or arrays, and make it easy to perform repetitive or sophisticated tasks. By abstracting logic into functions, large projects can be structured as smaller, manageable modules. Proper utilization of functions in C++ also enhances security (by limiting scope), enables parameter validation, and supports efficient resource usage, especially when working with large objects or arrays.  
 
+Variables declared inside functions are local to those functions and are destroyed once the function exits (automatic storage duration). Passing variables by reference or pointer allows modification of data outside the function's local scope.  
+
 ## Key Features:  
 
 - Modular approach for organized and structured programming.  
