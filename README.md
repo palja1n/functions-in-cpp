@@ -1,9 +1,9 @@
 # Functions in C++  
 
-Name: Pal Jain
-Class: ENTC A3
-PRN: 24070123067
-Title: Programs on Pointers in C++
+Name: Pal Jain  
+Class: ENTC A3  
+PRN: 24070123067  
+Title: Programs on Pointers in C++  
 
 ## Aim:
 
