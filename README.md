@@ -116,8 +116,4 @@ Pass an array and an integer reference, sequentially update array elements start
 
 ## Conclusion:  
 
-We explored multiple types of functions in C++, including call by value, call by reference, call by pointer, executing condition-based updates through functions, and passing arrays to functions. Each mechanism offers its own advantages in various scenarios, balancing safety, performance, and the ability to modify original data as needed. Correct use of these techniques boosts efficiency, clarity, and reliability in C++ programming.  
-
-***
-
-You can copy and paste the above directly into your GitHub README.
+We explored multiple types of functions in C++, including call by value, call by reference, call by pointer, executing condition-based updates through functions, and passing arrays to functions. Each mechanism offers its own advantages in various scenarios, balancing safety, performance, and the ability to modify original data as needed.
